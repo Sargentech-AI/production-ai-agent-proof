@@ -4,6 +4,7 @@ Sanitised examples, diagrams, and sample outputs from a production-style agent o
 
 ## What's inside
 - sample intelligence brief
+- sample telecom infrastructure intelligence brief
 - sample approval card
 - routing / review architecture diagrams
 - sample cost output
@@ -15,11 +16,13 @@ This repo is the proof layer for Sargentech AI's public GitHub presence.
 
 ## Contents
 - `examples/sample-intelligence-brief.md`
+- `examples/sample-telecom-infrastructure-brief.md`
 - `examples/sample-bid-no-bid-brief.md`
 - `examples/sample-quality-review-card.md`
 - `examples/sample-cost-output.json`
 - `diagrams/local-cloud-routing.svg`
 - `diagrams/review-gate-flow.svg`
+- `diagrams/telecom-intelligence-delivery-pattern.svg`
 
 ## Notes
 All examples are sanitised and illustrative.

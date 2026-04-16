@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="460" viewBox="0 0 980 460">
+<rect width="980" height="460" fill="#0f172a"/>
+<text x="40" y="48" fill="#ffffff" font-size="28" font-family="Arial" font-weight="700">Telecom Infrastructure Intelligence — Delivered Work Pattern</text>
+<g font-family="Arial" font-size="16">
+<rect x="60" y="120" width="180" height="90" rx="12" fill="#1d4ed8"/>
+<text x="95" y="164" fill="#fff">Signals in</text>
+<text x="78" y="189" fill="#bfdbfe">market, policy, network, geography</text>
+<rect x="290" y="120" width="180" height="90" rx="12" fill="#0f766e"/>
+<text x="322" y="164" fill="#fff">Analysis engine</text>
+<text x="307" y="189" fill="#ccfbf1">ranking, scoring, scenario logic</text>
+<rect x="520" y="120" width="180" height="90" rx="12" fill="#7c3aed"/>
+<text x="552" y="164" fill="#fff">Expert review</text>
+<text x="546" y="189" fill="#ede9fe">telecom + infrastructure judgment</text>
+<rect x="750" y="120" width="170" height="90" rx="12" fill="#15803d"/>
+<text x="785" y="164" fill="#fff">Decision pack</text>
+<text x="774" y="189" fill="#dcfce7">brief, map, shortlist, actions</text>
+<line x1="240" y1="165" x2="290" y2="165" stroke="#94a3b8" stroke-width="3"/>
+<line x1="470" y1="165" x2="520" y2="165" stroke="#94a3b8" stroke-width="3"/>
+<line x1="700" y1="165" x2="750" y2="165" stroke="#94a3b8" stroke-width="3"/>
+<rect x="210" y="300" width="560" height="90" rx="12" fill="#111827" stroke="#334155"/>
+<text x="310" y="340" fill="#fff" font-size="20">Sell the outcome, not the software</text>
+<text x="250" y="368" fill="#94a3b8">What the client buys: prioritised recommendations, evidence, and next actions — not a dashboard login.</text>
+</g>
+</svg>
