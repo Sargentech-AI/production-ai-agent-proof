@@ -9,6 +9,7 @@ Sanitised examples, diagrams, and sample outputs from a production-style agent o
 - routing / review architecture diagrams
 - sample cost output
 - sample bid/no-bid brief structure
+- sample decision-ready infrastructure assessment
 
 ## Why this repo exists
 Free-tier GitHub repos convert better when they show proof, not just claims.
@@ -18,6 +19,7 @@ This repo is the proof layer for Sargentech AI's public GitHub presence.
 - `examples/sample-intelligence-brief.md`
 - `examples/sample-telecom-infrastructure-brief.md`
 - `examples/sample-bid-no-bid-brief.md`
+- `examples/sample-decision-ready-assessment.md`
 - `examples/sample-quality-review-card.md`
 - `examples/sample-cost-output.json`
 - `diagrams/local-cloud-routing.svg`
